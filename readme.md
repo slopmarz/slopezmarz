@@ -54,21 +54,26 @@
 - Elemento 2
 - Elemento 3
 
-`- Elemento 1`
-`- Elemento 2`
-`- Elemento 3`
+```
+- Elemento 1
+- Elemento 2
+- Elemento 3
+```
 
 ### CODIGO
 
 `MI CODIGO`
 
-``MI CODIGO``
+```
+`MI CODIGO`
+```
 
 ### LINEA HORIZONTAL
 
 ---
 
 `---`
+
 ### ENLACE
 
 [IES Salvador Gadea](https://iesgadea.es)
@@ -90,12 +95,14 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-{
+
+```
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-}
+```
+
 ### BLOQUE DE CODIGO CON MAS DE UNA LINEA
 {
   "firstName": "John",
@@ -110,8 +117,10 @@
 Esta es una frase amb un nota al peu. [^1]
 [^1]: Esta és la nota al peu.
 
-`Esta es una frase amb un nota al peu. [^1]`
-`[^1]: Esta és la nota al peu.`
+```
+Esta es una frase amb un nota al peu. [^1]
+[^1]: Esta és la nota al peu.
+```
 
 ### LISTA DE TAREAS
 
@@ -119,12 +128,14 @@ Esta es una frase amb un nota al peu. [^1]
 - [ ] Estudiar GIT
 - [ ] Coneixer Markdown
 
-`- [x] Estudiar Python`
-`- [ ] Estudiar GIT`
-`- [ ] Coneixer Markdown`
-
+```
+- [x] Estudiar Python
+- [ ] Estudiar GIT
+- [ ] Coneixer Markdown
+```
 
 ### EMOJIS
+
 Content! :joy:
 
 `Content! :joy:`
